@@ -1,18 +1,9 @@
-# ✨ Joey Alid Portfolio
+# Welcome to My Creative Portfolio 👋
 
-Welcome to my official GitHub portfolio!
+Hi, I’m Joey Alid — a passionate artist and creator. I specialize in unique **ballpoint pen drawings** and digital art. 
 
-## 🎨 Ballpoint Pen Artworks
-A collection of my detailed handmade drawings, scanned and digitally enhanced.
+🎨 Browse my works  
+🛒 Visit my Gumroad shop  
+📧 Contact me for collaborations
 
-## 📄 Freelance Writing
-Sample articles, blog posts, and copywriting I've created for various clients.
-
-## 👩‍💻 Virtual Assistant Services
-Experience in email management, social media handling, and client communication.
-
----
-
-📬 Let's connect!  
-Email: alidjoey@gmail.com  
-Gumroad: [Coming Soon]
+Stay inspired and keep creating! 🌟
